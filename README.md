@@ -13,8 +13,9 @@ Skills
     🚀 Other Skills: Git, Agile Development, Test-Driven Development
     
 Frameworks 
-        React
-        <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
+
+        React <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
+       
 
 Projects
 
