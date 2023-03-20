@@ -1,5 +1,4 @@
 Hi there! 👋 I'm Dastagir, a developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 About Me
 
@@ -14,7 +13,7 @@ Skills
     🚀 Other Skills: Git, Agile Development, Test-Driven Development
     
 Frameworks 
-
+        React
         <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
 
 Projects
