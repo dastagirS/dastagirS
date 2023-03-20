@@ -15,20 +15,25 @@ Skills
 Frameworks<br/>
 <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
 <img height="20" width="20" src="https://api.iconify.design/logos:nextjs-icon.svg"/>
+<img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-astro.svg"/>
+
+
+Languages<br/>
+<img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-python.svg"/>
+<img height="20" width="20" src="https://api.iconify.design/skill-icons:rust.svg"/>
+<img height="20" width="20" src="https://api.iconify.design/logos:javascript.svg"/>
+<img height="20" width="20" src="https://api.iconify.design/skill-icons:cpp.svg"/>
        
 
 Projects
 
 Here are a few examples of some of the projects I've worked on recently:
 
-    Project 1: A web application built using Next.js and PostgreSQL.
-    Project 2: A command-line utility written in Rust for automating common tasks.
-    Project 3: A Python script for scraping data from a website and storing it in a database.
 
 Contact Me
 
-    📧 Email: your-email@example.com
-    🌐 Website: your-website.com
-    🐦 Twitter: @your-twitter-handle
+    📧 Email: dastagirshaikh467@gmail.com
+    🌐 Website: dastagir.vercel.app
+   <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/> <a href="www.linkedin.com/in/dastagirshaikh69">Dastagir Shaikh</a>
 
 Thanks for taking the time to check out my GitHub profile! I'm always open to collaboration and would love to hear about any exciting projects you're working on.
