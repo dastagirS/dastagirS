@@ -34,6 +34,6 @@ Contact Me
 
     📧 Email: dastagirshaikh467@gmail.com
     🌐 Website: dastagir.vercel.app
-   <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/> <a href="www.linkedin.com/in/dastagirshaikh69">Dastagir Shaikh</a>
+    🐦 Twitter: @Dastagi39923618
 
 Thanks for taking the time to check out my GitHub profile! I'm always open to collaboration and would love to hear about any exciting projects you're working on.
