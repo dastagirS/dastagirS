@@ -14,6 +14,7 @@ Skills
     
 Frameworks<br/>
 <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
+<img height="20" width="20" src="[https://api.iconify.design/vscode-icons:file-type-reactjs.svg](https://api.iconify.design/logos:nextjs-icon.svg)"/>
        
 
 Projects
