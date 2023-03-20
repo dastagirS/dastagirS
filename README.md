@@ -12,9 +12,8 @@ Skills
     🌐 Web Development: Next.js, React, HTML, CSS
     🚀 Other Skills: Git, Agile Development, Test-Driven Development
     
-Frameworks 
-
-        React <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
+Frameworks<br/>
+<img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
        
 
 Projects
