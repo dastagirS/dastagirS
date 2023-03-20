@@ -1,9 +1,11 @@
-Hi there! 👋 I'm [Your Name], an expert developer and web developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.
+Hi there! 👋 I'm Dastagir, a developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 About Me
 
-    👨‍💻 I'm proficient in Python, Rust, C++, and JavaScript, and have experience working with a variety of web frameworks, including Next.js and React.
-    🌱 I'm constantly learning and staying up-to-date with the latest technologies and best practices in software development.
-    🤝 I believe in the power of collaboration and am always looking for opportunities to work with other developers on exciting projects.
+    I'm proficient in Python, Rust, C++, and JavaScript, and have experience working with a variety of web frameworks, including Next.js and React.
+    I'm constantly learning and staying up-to-date with the latest technologies and best practices in software development.
+    I believe in the power of collaboration and am always looking for opportunities to work with other developers on exciting projects.
 
 Skills
 
@@ -12,6 +14,7 @@ Skills
     🚀 Other Skills: Git, Agile Development, Test-Driven Development
     
 Frameworks 
+
         <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
 
 Projects
