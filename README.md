@@ -1,6 +1,6 @@
 Hi there! 👋 I'm [Your Name], an expert developer and web developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.
 About Me
-<img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
+
     👨‍💻 I'm proficient in Python, Rust, C++, and JavaScript, and have experience working with a variety of web frameworks, including Next.js and React.
     🌱 I'm constantly learning and staying up-to-date with the latest technologies and best practices in software development.
     🤝 I believe in the power of collaboration and am always looking for opportunities to work with other developers on exciting projects.
@@ -10,6 +10,9 @@ Skills
     💻 Programming Languages: Python, Rust, C++, JavaScript
     🌐 Web Development: Next.js, React, HTML, CSS
     🚀 Other Skills: Git, Agile Development, Test-Driven Development
+    
+Frameworks 
+        <img height="20" width="20" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg"/>
 
 Projects
 
