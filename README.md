@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dastagir Shaikh</h1>
-<h3 align="center">a developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.</h3>
+<h3 align="center">A developer with a passion for building high-quality, scalable applications using a range of programming languages and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastagirs&label=Profile%20views&color=0e75b6&style=flat" alt="dastagirs" /> </p>
 
