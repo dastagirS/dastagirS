@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastagirs&label=Profile%20views&color=0e75b6&style=flat" alt="dastagirs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@dastagi39923618" target="blank"><img src="https://img.shields.io/twitter/follow/@dastagi39923618?logo=twitter&style=for-the-badge" alt="@dastagi39923618" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dastagi39923618" target="blank"><img src="https://img.shields.io/twitter/follow/@dastagi39923618?logo=twitter&style=for-the-badge" alt="dastagi39923618" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
